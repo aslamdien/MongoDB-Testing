@@ -2,7 +2,7 @@
   "name": "Contact-Keeper",
   "version": "1.0.0",
   "description": "Contact Manager App",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js"
